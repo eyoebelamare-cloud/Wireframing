@@ -135,3 +135,31 @@ Figma integrates design, prototyping, and collaboration into a single platform, 
 ​Seamless Collaboration: Wireframes are blueprints, and they need rapid feedback. Figma's real-time co-editing and commenting features allow stakeholders (including product managers, developers, and clients) to provide input directly on the wireframe instantly, greatly speeding up iterations and decision-making.
 ​Accessibility: Being cloud-based, it allows anyone with a link to view and comment on the wireframe from any operating system, reducing barriers to participation.
 ​Reusable Assets: Designers can create Wireframe Kits of components (like buttons, form fields, and navigation bars) to maintain consistency and quickly build new screens.
+# benefits of wireframing 
+
+Wireframing provides a visual blueprint of a website or app, helping teams plan layout, navigation, content, and functionality before coding begins. It offers several key benefits:
+
+1. Clarifies Structure and User Flow
+
+Wireframes outline how pages connect and how users move through the system (e.g., Home → Product → Checkout).
+Helps developers plan logic and ensures a clear, user-friendly experience.
+
+2. Improves Team Communication
+
+They act as a shared visual language between designers, developers, and clients.
+Everyone can see where elements (like login buttons or menus) go, reducing misunderstandings.
+
+3. Saves Time and Costs
+
+It’s easier and cheaper to adjust a wireframe than fix code later.
+Early feedback prevents costly redesigns or rework.
+
+4. Guides the Design Process
+
+Wireframes form the foundation for visual design and development.
+ Layouts guide designers’ aesthetics, and functionality guides developers’ coding plans.
+5. Supports Early User Testing
+
+Teams can test usability before full design or development.
+ For example, checking if users easily find a “Continue to Payment” button.
+
