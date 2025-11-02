@@ -115,22 +115,7 @@ A note showing that clicking the button will trigger form validation.
 
 Contribution:
 Including functionality cues allows teams to understand the user flow and ensures that every action leads to the expected outcome.
-
-
----
-
-✅ Summary Table
-
-Element	Description	Example	Contribution
-
-Layout Structure	Framework of the page	Header, sidebar, footer	Establishes hierarchy and organization
-Navigation	Pathways to move between pages	Menu bar, breadcrumbs	Ensures usability and orientation
-Content Placement	Arrangement of text, images, etc.	Product info beside image	Guides attention and improves clarity
-Functionality	Interactive components	Buttons, forms, search bars	Defines user interactions and flow
-
-
-
----
-
-Would you like me to include a simple wireframe sketch example (e.g., a homepage layout) to visually show how these elements appear together?
+# Types of Wireframes
+low fidelity wireframe: is type of wwireframe that focuses on basic strure of the website or the product to be delivered; it doesn't provide ditailed visual representations.
+high fidelity wireframe: is wireframe that concerns about visual appearance and other details of the product,it also has some features that can show some functional features of the product.
 
